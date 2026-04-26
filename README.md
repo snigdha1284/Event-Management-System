@@ -44,8 +44,8 @@ You can explore the different roles using these pre-seeded credentials:
 | Role | Email | Password | Access Level |
 | :--- | :--- | :--- | :--- |
 | **Super Admin** | `23051222@kiit.ac.in` | `123456` | System Control |
-| **Club Admin** | `snigdha5002@gmail.com` | `123456` | ELabs Organizer |
-| **Student** | `supernovascience2023@gmail.com` | `123456` | Participant |
+| **Club Admin** | `supernovascience2023@gmail.com` | `123456` | ELabs Organizer |
+| **Student** | `snigdha5002@gmail.com` | `123456` | Participant |
 
 ---
 
