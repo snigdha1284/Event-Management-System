@@ -82,5 +82,3 @@ You can explore the different roles using these pre-seeded credentials:
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
----
