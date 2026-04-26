@@ -79,14 +79,7 @@ You can explore the different roles using these pre-seeded credentials:
 
 ---
 
-## 📸 Screenshots
-
-*(Add your beautiful screenshots here later to WOW the recruiters!)*
-
----
-
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-**Developed with ❤️ by Snigdha**
