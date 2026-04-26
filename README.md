@@ -1,4 +1,4 @@
-# 🚀 Event Glow: Premium Campus Management System
+# 🚀 Event Management System
 
 A sophisticated, full-stack Event Management platform built with the **MERN Stack** (MongoDB, Express, React, Node.js). Designed for campus organizations to manage events with real-time analytics, secure role-based access, and a premium, modern aesthetic.
 
