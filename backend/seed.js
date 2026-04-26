@@ -23,8 +23,8 @@ const seedData = async () => {
         const superadmin = await User.findOne({ role: 'superadmin' });
         if (!superadmin) {
             await User.create({
-                name: 'System Admin',
-                email: 'superadmin@event.com',
+                name: 'Snigdha (Super)',
+                email: '23051222@kiit.ac.in',
                 password: 'password123',
                 role: 'superadmin'
             });
@@ -34,9 +34,9 @@ const seedData = async () => {
         }
 
         const elabsAdmin = await checkAndCreate({
-            name: 'Sniggg',
-            email: 'sniggg@elabs.com',
-            password: 'password123',
+            name: 'Sniggg (Admin)',
+            email: 'snigdha5002@gmail.com',
+            password: '123456',
             role: 'admin',
             society: 'ELabs'
         });
@@ -50,9 +50,9 @@ const seedData = async () => {
         });
 
         const student = await checkAndCreate({
-            name: 'John Doe',
-            email: 'john@student.com',
-            password: 'password123',
+            name: 'John Student',
+            email: 'supernovascience2023@gmail.com',
+            password: '123456',
             role: 'student'
         });
 
