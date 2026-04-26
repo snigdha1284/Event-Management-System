@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR_BACKEND_URL/api/:path*"
+      "destination": "https://event-management-system-etep.onrender.com/api/:path*"
     },
     {
       "source": "/(.*)",
